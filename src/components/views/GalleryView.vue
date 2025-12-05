@@ -21,6 +21,7 @@
           <figure class="show overflow-hidden sm:w-full rounded-md  my-4  object-cover break-inside-avoid-column"><img loading="lazy" src="/images/baleBengong.jpeg"        class="h-auto w-auto sm:w-full rounded-lg transition-all hover:scale-150 duration-550 active:scale-150 ease-in-out" alt=""></figure>
           <figure class="show overflow-hidden sm:w-full rounded-md  my-4  object-cover break-inside-avoid-column"><img loading="lazy" src="/images/puraPuseh.jpeg"          class="h-auto w-auto sm:w-full rounded-lg transition-all hover:scale-150 duration-550 active:scale-150 ease-in-out" alt=""></figure>
           <figure class="show overflow-hidden sm:w-full rounded-md  my-4  object-cover break-inside-avoid-column"><img loading="lazy" src="/images/tangga.jpeg"             class="h-auto w-auto sm:w-full rounded-lg transition-all hover:scale-150 duration-550 active:scale-150 ease-in-out" alt=""></figure>
+          <figure class="show overflow-hidden sm:w-full rounded-md  my-4  object-cover break-inside-avoid-column"><img loading="lazy" src="/images/pohon.jpeg"             class="h-auto w-auto sm:w-full rounded-lg transition-all hover:scale-150 duration-550 active:scale-150 ease-in-out" alt=""></figure>
         </div>
       </main>
     </div>
